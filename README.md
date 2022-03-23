@@ -11,5 +11,8 @@ Analysis PyBer ride-sharing data to identify key metrics and create a graphical 
   - Total Fares
   - Average Fare Price
   - Average Fare per Driver
-  - 
+
 ![This is an image](https://github.com/fisher-n/PyBer_Analysis/blob/main/analysis/ChallengeChart.png)
+
+Created LineChart:
+![This is an image](https://github.com/fisher-n/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
